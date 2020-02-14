@@ -1,1 +1,4 @@
 *.cpp linguist-language=C++
+*.EAP linguist-language=C++
+*.doc linguist-language=C++
+*.docx linguist-language=C++
